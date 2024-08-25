@@ -8,6 +8,9 @@
 
 ###Tecnologias do meu dia a dia
 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAssis0&layout=donut)](https://github.com/MiguelAssis0/github-readme-stats) <br/>
+
 <div style="display: inline_block"><br/>
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
@@ -22,5 +25,4 @@
 
 Mudando a vida das pessoas através da tecnologia, criando sites para empresas e empreendedores! <br/>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAssis0&layout=donut)](https://github.com/MiguelAssis0/github-readme-stats)
 
