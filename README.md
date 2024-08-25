@@ -20,4 +20,7 @@
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </div> <br />
 
-Mudando a vida das pessoas através da tecnologia, criando sites para empresas e empreendedores!
+Mudando a vida das pessoas através da tecnologia, criando sites para empresas e empreendedores! <br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAssis0&layout=donut)](https://github.com/MiguelAssis0/github-readme-stats)
+
