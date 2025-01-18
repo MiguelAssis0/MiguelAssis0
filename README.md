@@ -1,7 +1,8 @@
 ### Olá! Eu sou o Miguel Anjos 👋
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelajs.dev)
-[![Portifólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-alpha-ochre.vercel.app)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/miguelajs.dev){:target="_blank"}
+[![Portfólio](https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portifolio-alpha-ochre.vercel.app){:target="_blank"}
+
 
 ![MiguelAssis0 GitHub stats](https://github-readme-stats.vercel.app/api?username=MiguelAssis0&show_icons=true&theme=dracula)
 
