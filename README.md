@@ -24,7 +24,7 @@
     <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL">
     <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
     <img src="https://img.shields.io/badge/Unity-00000F?style=for-the-badge&logo=unity&logoColor=white" alt="Unity">
-    <img src="https://img.shields.io/badge/CSharp-00000F?style=for-the-badge&logo=csharp&logoColor=white" alt="C#">
+    <img src="https://img.shields.io/badge/C#-00000F?style=for-the-badge&logo=C#&logoColor=white" alt="C#">
 </div> <br />
 
 
