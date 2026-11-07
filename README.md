@@ -53,8 +53,8 @@ I enjoy turning complex problems into practical solutions, exploring new technol
 ### 📊 GitHub Statistics
 
 <div align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=MiguelAssis0&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MiguelAssis0&layout=compact&theme=github_dark&hide_border=true" alt="Most Used Languages" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api?username=MiguelAssis0&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" />
+  <img height="170" src="https://github-stats-extended.vercel.app/api/top-langs/?username=MiguelAssis0&layout=compact&theme=github_dark&hide_border=true&langs_count=8" alt="Most Used Languages" />
 </div>
 
 ### 🌐 Connect With Me
